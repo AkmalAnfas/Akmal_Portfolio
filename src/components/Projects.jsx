@@ -31,7 +31,7 @@ const Projects = () => {
                 }
             </div>
             <div className='mt-12 text-center'>
-                <a href='#' className='inline-flex items-center px-6 py-3 border border-purple rounded-lg hover:bg-purple/20 transition font-medium duration-300 '>
+                <a href='http://github.com/AkmalAnfas' className='inline-flex items-center px-6 py-3 border border-purple rounded-lg hover:bg-purple/20 transition font-medium duration-300 '>
                     <span>View More Project</span>
                     <FaArrowRight className='ml-2'/>
                 </a>

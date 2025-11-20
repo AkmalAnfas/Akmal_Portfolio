@@ -13,10 +13,10 @@ const About = () => {
     className='py-20 bg-dark-200'>
         <div className='container mx-0 px-6'>
             {/* Heading */}
-            <h2 className='text-3xl font-bold text-center mb-4 '>About
+            <h2 className='text-3xl font-bold text-center mb-4'>About
                 <span className='text-blue-500'> Me</span>
             </h2>
-            <p className='text-gray-400 text-center max-w-2xl mx-auto mb-16'>Get to know about me</p>
+            <p className='text-gray-400 text-center max-w-2xl mx-auto mb-16'>Discover More About Me</p>
             {/* Content */}
             <div className='flex flex-col md:flex-row items-center gap-12'>
                 {/* image */}
@@ -39,7 +39,7 @@ const About = () => {
 
                     <div className='rounded-2xl p-8'>
                         <h3 className='text-2xl font-semibold mb-6 '>My Journey</h3>
-                        <p className='text-gray-300 mb-6 '>I'm a passionate full-stack developer with over 5 years of experience creating digital solutions for businesses around the world. My journey started with basic HTML/CSS websites and has evolved into building complex web applications with modern frameworks.</p>
+                        <p className='text-gray-300 mb-6 '>I started with zero knowledge about IT, but quickly adapted and discovered a strong passion for building software. I’m an enthusiastic full-stack developer who loves turning ideas into functional and user-friendly digital products. Over time, I have grown into creating modern web and mobile applications, always eager to learn, improve, and take on real-world challenges that help me become a better developer.</p>
                         <p className='text-gray-300 mb-12 '>When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or sharing my knowledge through tech blogs and tutorials. I believe in continuous learning and pushing the boundaries of what's possible on the web.</p>
 
                         {/* Cards */}

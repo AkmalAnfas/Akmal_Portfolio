@@ -20,7 +20,7 @@ const Hero = () => {
                     Hi, I'm <span className='text-blue-500'>Akmal Anfas</span> 
                 </h1>
                 <h2 className='text-2xl md:text-4xl font-semibold mb-6 typewriter'> Full Stack Developer</h2>
-                <p className='text-lg text-gray-300 mb-8'> I build fast, scalable, and user-friendly web applications. From interactive front-ends to robust back-ends, I turn ideas into seamless digital experiences.</p>
+                <p className='text-lg text-gray-300 mb-8'> I craft fast, scalable, and user centric web applications. From engaging frontend to robust backend, I bring ideas to life as seamless, high-quality digital experiences.</p>
                 <div className='flex space-x-4'>
                     <a href="#projects" className='px-6 py-3 border bg-purple rounded-lg font-medium hover:bg-purple-700 transition duration-300'> View work </a>
                     <a href="#contact" className='px-6 py-3 border border-purple rounded-lg font-medium hover:bg-purple/20 transition decoration-purple-300 '> Contact Me</a>
